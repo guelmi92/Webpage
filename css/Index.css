@@ -3338,7 +3338,7 @@ input:focus, textarea:focus, select:focus
 {
    border-top-width: 1px;
    border-right-width: 1px;
-   border-bottom-width: 20px;
+   border-bottom-width: 33px;
    border-left-width: 1px;
    border-top-style: solid;
    border-right-style: solid;
@@ -3348,9 +3348,9 @@ input:focus, textarea:focus, select:focus
    border-right-color: #FFFFFF;
    border-bottom-color: #FFFFFF;
    border-left-color: #FFFFFF;
-   border-image-source: url(../images/box-shadow-8.png);
-   border-image-slice: 1 1 20 1;
-   border-image-width: 1px 1px 20px 1px;
+   border-image-source: url(../images/box-shadow-4.png);
+   border-image-slice: 1 1 33 1;
+   border-image-width: 1px 1px 33px 1px;
    border-image-repeat: stretch;
    box-sizing: border-box;
    padding: 0;
@@ -7870,6 +7870,7 @@ body
    flex-shrink: 0;
    -webkit-align-self: auto;
    align-self: auto;
+   color: #FFFFFF;
 }
 #PhotoGallery1 .thumbnail
 {
@@ -10200,6 +10201,7 @@ body
    flex-shrink: 0;
    -webkit-align-self: auto;
    align-self: auto;
+   color: #FFFFFF;
 }
 #PhotoGallery1 .thumbnail
 {
@@ -12561,6 +12563,7 @@ body
    flex-shrink: 0;
    -webkit-align-self: auto;
    align-self: auto;
+   color: #FFFFFF;
 }
 #PhotoGallery1 .thumbnail
 {
@@ -14875,8 +14878,8 @@ body
    flex-wrap: nowrap;
    -webkit-justify-content: space-around;
    justify-content: space-around;
-   -webkit-align-items: flex-start;
-   align-items: flex-start;
+   -webkit-align-items: center;
+   align-items: center;
    -webkit-align-content: flex-start;
    align-content: flex-start;
 }
@@ -14922,6 +14925,7 @@ body
    flex-shrink: 0;
    -webkit-align-self: auto;
    align-self: auto;
+   color: #FFFFFF;
 }
 #PhotoGallery1 .thumbnail
 {
