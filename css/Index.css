@@ -1344,7 +1344,7 @@ input:focus, textarea:focus, select:focus
    text-align: center;
    width: 100%;
    background-color: transparent;
-   background-image: url('../images/Index_faqLayoutGrid_bkgrnd.png');
+   background-image: url('../images/Index_faqLayoutGrid_bkgrnd.webp');
    background-repeat: no-repeat;
    background-position: left top;
    background-attachment: scroll;
@@ -6218,7 +6218,7 @@ body
    visibility: visible;
    display: table;
    background-color: transparent;
-   background-image: url('../images/Index_faqLayoutGrid_bkgrnd1024.png');
+   background-image: url('../images/Index_faqLayoutGrid_bkgrnd1024.webp');
    background-repeat: no-repeat;
    background-position: left top;
    background-attachment: scroll;
@@ -8549,7 +8549,7 @@ body
    visibility: visible;
    display: table;
    background-color: transparent;
-   background-image: url('../images/Index_faqLayoutGrid_bkgrnd768.png');
+   background-image: url('../images/Index_faqLayoutGrid_bkgrnd768.webp');
    background-repeat: no-repeat;
    background-position: left top;
    background-attachment: scroll;
@@ -10902,7 +10902,7 @@ body
    visibility: visible;
    display: table;
    background-color: transparent;
-   background-image: url('../images/Index_faqLayoutGrid_bkgrnd480.png');
+   background-image: url('../images/Index_faqLayoutGrid_bkgrnd480.webp');
    background-repeat: no-repeat;
    background-position: left top;
    background-attachment: scroll;
@@ -13264,7 +13264,7 @@ body
    visibility: visible;
    display: table;
    background-color: transparent;
-   background-image: url('../images/Index_faqLayoutGrid_bkgrnd320.png');
+   background-image: url('../images/Index_faqLayoutGrid_bkgrnd320.webp');
    background-repeat: no-repeat;
    background-position: left top;
    background-attachment: scroll;
