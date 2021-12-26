@@ -170,7 +170,7 @@ input:focus, textarea:focus, select:focus
    background-image: none;
    border: 0px solid #FFFFFF;
    border-radius: 0px;
-   width: 66.66666667%;
+   width: 75%;
    text-align: center;
 }
 #headerLayoutGrid > .row > .col-2
@@ -179,7 +179,7 @@ input:focus, textarea:focus, select:focus
    background-image: none;
    border: 0px solid #FFFFFF;
    border-radius: 0px;
-   width: 33.33333333%;
+   width: 25%;
    text-align: right;
 }
 #headerLayoutGrid:before,
@@ -2039,6 +2039,10 @@ input:focus, textarea:focus, select:focus
 {
    content: "\e869";
 }
+#headerMenu .image:before
+{
+   content: "\e3f4";
+}
 #wb_headerMenu
 {
    z-index: 1111 !important;
@@ -2644,11 +2648,6 @@ input:focus, textarea:focus, select:focus
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#faqCard1-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #faqCard1-card-item0 i
 {
    text-align: center;
@@ -2743,11 +2742,6 @@ input:focus, textarea:focus, select:focus
    transform: rotate(0deg) ;
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
-}
-#faqCard2-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
 }
 #faqCard2-card-item0 i
 {
@@ -2844,11 +2838,6 @@ input:focus, textarea:focus, select:focus
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#Faq-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #Faq-card-item0 i
 {
    text-align: center;
@@ -2944,11 +2933,6 @@ input:focus, textarea:focus, select:focus
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#faqCard3-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #faqCard3-card-item0 i
 {
    text-align: center;
@@ -3043,11 +3027,6 @@ input:focus, textarea:focus, select:focus
    transform: rotate(0deg) ;
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
-}
-#faqCard5-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
 }
 #faqCard5-card-item0 i
 {
@@ -3336,22 +3315,8 @@ input:focus, textarea:focus, select:focus
 }
 #Logo
 {
-   border-top-width: 1px;
-   border-right-width: 1px;
-   border-bottom-width: 33px;
-   border-left-width: 1px;
-   border-top-style: solid;
-   border-right-style: solid;
-   border-bottom-style: solid;
-   border-left-style: solid;
-   border-top-color: #FFFFFF;
-   border-right-color: #FFFFFF;
-   border-bottom-color: #FFFFFF;
-   border-left-color: #FFFFFF;
-   border-image-source: url(../images/box-shadow-4.png);
-   border-image-slice: 1 1 33 1;
-   border-image-width: 1px 1px 33px 1px;
-   border-image-repeat: stretch;
+   border: 0px solid transparent;
+   border-radius: 0px;
    box-sizing: border-box;
    padding: 0;
    -webkit-animation: animate-font-size 1000ms linear 0ms infinite normal both;
@@ -5127,100 +5092,6 @@ input:focus, textarea:focus, select:focus
    text-align: center;
    vertical-align: top;
 }
-#PhotoGallery1 .caption
-{
-   color: #FFFFFF;
-   font-family: "Kemco Pixel";
-   font-weight: normal;
-   font-size: 13px;
-   font-style: normal;
-   margin: 0;
-   text-align: center;
-   text-decoration: none;
-   padding: 3px 0px 0px 0px;
-   position: absolute;
-   left: 0;
-   top: 0;
-   width: 100%;
-   background-color: #000000;
-   box-sizing: border-box;
-   opacity: 0;
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   height: 100%;
-   align-items: center;
-}
-#PhotoGallery1 .description
-{
-   color: #000000;
-   font-weight: normal;
-   font-size: 11px;
-   font-style: normal;
-   text-align: center;
-}
-#PhotoGallery1 .thumbnail a
-{
-   display: block;
-   position: relative;
-}
-#PhotoGallery1 .thumbnail a .image
-{
-   -webkit-transition: all 600ms ease-in;
-   transition: all 600ms ease-in;
-   opacity: 1;
-}
-#PhotoGallery1 .thumbnail a .caption 
-{
-   background-color: rgba(0,0,0,0.60);
-   opacity: 0;
-   -webkit-transform: rotate(0deg) scale(1);
-   transform: rotate(0deg) scale(1);
-   -webkit-transition: all 360ms ease-in;
-   transition: all 360ms ease-in;
-}
-#PhotoGallery1 .thumbnail a .title
-{
-   -webkit-transform: translateY(-452px);
-   transform: translateY(-452px);
-   -webkit-transition: all 240ms ease-in;
-   transition: all 240ms ease-in;
-}
-#PhotoGallery1 .thumbnail a .description
-{
-   -webkit-transform: translateY(-452px);
-   transform: translateY(-452px);
-   -webkit-transition: all 240ms ease-in;
-   transition: all 240ms ease-in;
-}
-#PhotoGallery1 .thumbnail a:hover .caption
-{
-   opacity: 1;
-   -webkit-transform: translateY(0px) rotate(0deg);
-   transform: translateY(0px) rotate(0deg);
-   -webkit-transition-delay: 480ms;
-   transition-delay: 480ms;
-}
-#PhotoGallery1 .thumbnail a:hover .image
-{
-   -webkit-transform: rotate(720deg) scale(0);
-   transform: rotate(720deg) scale(0);
-   opacity: 0;
-}
-#PhotoGallery1 .thumbnail a:hover .title
-{
-   -webkit-transform: translateY(0px);
-   transform: translateY(0px);
-   -webkit-transition-delay: 840ms;
-   transition-delay: 840ms;
-}
-#PhotoGallery1 .thumbnail a:hover .description
-{
-   -webkit-transform: translateY(0px);
-   transform: translateY(0px);
-   -webkit-transition-delay: 720ms;
-   transition-delay: 720ms;
-}
 #PhotoGallery1 .thumbnail img
 {
    border: 0px #000000 solid;
@@ -5624,7 +5495,7 @@ body
 #headerLayoutGrid > .row > .col-1
 {
    display: block;
-   width: 66.66666667%;
+   width: 75%;
    border: 0px solid #FFFFFF;
    border-radius: 0px;
    text-align: center;
@@ -5632,7 +5503,7 @@ body
 #headerLayoutGrid > .row > .col-2
 {
    display: block;
-   width: 33.33333333%;
+   width: 25%;
    border: 0px solid #FFFFFF;
    border-radius: 0px;
    text-align: right;
@@ -6499,11 +6370,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#faqCard1-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #faqCard1-card-item0 i
 {
    text-align: center;
@@ -6583,11 +6449,6 @@ body
    transform: rotate(0deg) ;
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
-}
-#faqCard2-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
 }
 #faqCard2-card-item0 i
 {
@@ -6669,11 +6530,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#Faq-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #Faq-card-item0 i
 {
    text-align: center;
@@ -6754,11 +6610,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#faqCard3-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #faqCard3-card-item0 i
 {
    text-align: center;
@@ -6838,11 +6689,6 @@ body
    transform: rotate(0deg) ;
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
-}
-#faqCard5-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
 }
 #faqCard5-card-item0 i
 {
@@ -8830,11 +8676,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#faqCard1-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #faqCard1-card-item0 i
 {
    text-align: center;
@@ -8914,11 +8755,6 @@ body
    transform: rotate(0deg) ;
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
-}
-#faqCard2-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
 }
 #faqCard2-card-item0 i
 {
@@ -9000,11 +8836,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#Faq-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #Faq-card-item0 i
 {
    text-align: center;
@@ -9085,11 +8916,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#faqCard3-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #faqCard3-card-item0 i
 {
    text-align: center;
@@ -9169,11 +8995,6 @@ body
    transform: rotate(0deg) ;
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
-}
-#faqCard5-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
 }
 #faqCard5-card-item0 i
 {
@@ -11183,11 +11004,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#faqCard1-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #faqCard1-card-item0 i
 {
    text-align: center;
@@ -11267,11 +11083,6 @@ body
    transform: rotate(0deg) ;
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
-}
-#faqCard2-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
 }
 #faqCard2-card-item0 i
 {
@@ -11353,11 +11164,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#Faq-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #Faq-card-item0 i
 {
    text-align: center;
@@ -11438,11 +11244,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#faqCard3-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #faqCard3-card-item0 i
 {
    text-align: center;
@@ -11522,11 +11323,6 @@ body
    transform: rotate(0deg) ;
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
-}
-#faqCard5-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
 }
 #faqCard5-card-item0 i
 {
@@ -13545,11 +13341,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#faqCard1-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #faqCard1-card-item0 i
 {
    text-align: center;
@@ -13629,11 +13420,6 @@ body
    transform: rotate(0deg) ;
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
-}
-#faqCard2-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
 }
 #faqCard2-card-item0 i
 {
@@ -13715,11 +13501,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#Faq-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #Faq-card-item0 i
 {
    text-align: center;
@@ -13800,11 +13581,6 @@ body
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
 }
-#faqCard3-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
-}
 #faqCard3-card-item0 i
 {
    text-align: center;
@@ -13884,11 +13660,6 @@ body
    transform: rotate(0deg) ;
    -webkit-transition: -webkit-transform 300ms linear 0ms;
    transition: transform 300ms linear 0ms;
-}
-#faqCard5-card-item0 a
-{
-   color: inherit;
-   text-decoration: none;
 }
 #faqCard5-card-item0 i
 {
