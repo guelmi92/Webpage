@@ -16,6 +16,16 @@
         url('../fonts/captainicon.svg#captainicon') format('svg'),
         url('../fonts/captainicon.eot') format('embedded-opentype');
 }
+@font-face
+{
+   font-family: "Kemco";
+   font-display: swap;
+   src: url('../fonts/Kemco.woff2') format('woff2'),
+        url('../fonts/Kemco.woff') format('woff'),
+        url('../fonts/Kemco.ttf') format('truetype'),
+        url('../fonts/Kemco.svg#Kemco') format('svg'),
+        url('../fonts/Kemco.eot') format('embedded-opentype');
+}
 @-webkit-keyframes animate-background
 {
    0% { background-color: #FFD700;  }

@@ -1428,7 +1428,7 @@ input:focus, textarea:focus, select:focus
 #wb_aboutText
 {
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-size: 20px;
    line-height: 22px;
@@ -1458,7 +1458,7 @@ input:focus, textarea:focus, select:focus
 #aboutHeading
 {
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: italic;
    font-size: 53px;
@@ -1497,7 +1497,7 @@ input:focus, textarea:focus, select:focus
 }
 .headerMenu .nav
 {
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-size: 19px;
    font-style: normal;
@@ -2060,7 +2060,7 @@ input:focus, textarea:focus, select:focus
 #wb_timelineText1
 {
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-size: 19px;
    line-height: 14.5px;
@@ -2116,7 +2116,7 @@ input:focus, textarea:focus, select:focus
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -2201,7 +2201,7 @@ input:focus, textarea:focus, select:focus
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -2402,7 +2402,7 @@ input:focus, textarea:focus, select:focus
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -2487,7 +2487,7 @@ input:focus, textarea:focus, select:focus
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -2673,7 +2673,7 @@ input:focus, textarea:focus, select:focus
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -2684,7 +2684,7 @@ input:focus, textarea:focus, select:focus
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -2768,7 +2768,7 @@ input:focus, textarea:focus, select:focus
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -2779,7 +2779,7 @@ input:focus, textarea:focus, select:focus
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -2863,7 +2863,7 @@ input:focus, textarea:focus, select:focus
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -2874,7 +2874,7 @@ input:focus, textarea:focus, select:focus
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -2958,7 +2958,7 @@ input:focus, textarea:focus, select:focus
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -2969,7 +2969,7 @@ input:focus, textarea:focus, select:focus
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -3053,7 +3053,7 @@ input:focus, textarea:focus, select:focus
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -3064,7 +3064,7 @@ input:focus, textarea:focus, select:focus
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -3085,7 +3085,7 @@ input:focus, textarea:focus, select:focus
 #faqHeading
 {
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 32px;
@@ -3107,7 +3107,7 @@ input:focus, textarea:focus, select:focus
 #RoadMapHeading
 {
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 32px;
@@ -3171,7 +3171,7 @@ input:focus, textarea:focus, select:focus
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -3400,7 +3400,7 @@ input:focus, textarea:focus, select:focus
    background-color: #000000;
    background-image: none;
    color: #F0D217;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 43px;
@@ -3449,7 +3449,7 @@ input:focus, textarea:focus, select:focus
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -3460,7 +3460,7 @@ input:focus, textarea:focus, select:focus
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -3523,7 +3523,7 @@ input:focus, textarea:focus, select:focus
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -3839,7 +3839,7 @@ input:focus, textarea:focus, select:focus
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -3980,7 +3980,7 @@ input:focus, textarea:focus, select:focus
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -4259,7 +4259,7 @@ input:focus, textarea:focus, select:focus
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -4538,7 +4538,7 @@ input:focus, textarea:focus, select:focus
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -4847,7 +4847,7 @@ input:focus, textarea:focus, select:focus
 #MintHeading
 {
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 32px;
@@ -4889,7 +4889,7 @@ input:focus, textarea:focus, select:focus
    background-size: 100% 100%;
    color: #000000;
    box-shadow: 0px 0px 10px #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 24px;
@@ -5013,7 +5013,7 @@ input:focus, textarea:focus, select:focus
 #GalleryHeading
 {
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 32px;
@@ -6140,7 +6140,7 @@ body
 }
 #headerMenu, .headerMenu .nav, .headerMenu .dropdown-menu
 {
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-size: 19px;
 }
@@ -6171,7 +6171,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -6193,7 +6193,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -6275,7 +6275,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -6297,7 +6297,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -6395,7 +6395,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -6406,7 +6406,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -6475,7 +6475,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -6486,7 +6486,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -6555,7 +6555,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -6566,7 +6566,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -6635,7 +6635,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -6646,7 +6646,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -6715,7 +6715,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -6726,7 +6726,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -6775,7 +6775,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -6867,7 +6867,7 @@ body
    background-color: #000000;
    background-image: none;
    color: #F0D217;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 43px;
@@ -6916,7 +6916,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -6927,7 +6927,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -6960,7 +6960,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -7122,7 +7122,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -7182,7 +7182,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -7316,7 +7316,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -7450,7 +7450,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -8446,7 +8446,7 @@ body
 }
 #headerMenu, .headerMenu .nav, .headerMenu .dropdown-menu
 {
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-size: 19px;
 }
@@ -8477,7 +8477,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -8499,7 +8499,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -8581,7 +8581,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -8603,7 +8603,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -8701,7 +8701,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -8712,7 +8712,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -8781,7 +8781,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -8792,7 +8792,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -8861,7 +8861,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -8872,7 +8872,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -8941,7 +8941,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -8952,7 +8952,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -9021,7 +9021,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -9032,7 +9032,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -9081,7 +9081,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -9173,7 +9173,7 @@ body
    background-color: #000000;
    background-image: none;
    color: #F0D217;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 43px;
@@ -9222,7 +9222,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -9233,7 +9233,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -9266,7 +9266,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -9428,7 +9428,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -9488,7 +9488,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -9622,7 +9622,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -9756,7 +9756,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -10774,7 +10774,7 @@ body
 }
 #headerMenu, .headerMenu .nav, .headerMenu .dropdown-menu
 {
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-size: 19px;
 }
@@ -10805,7 +10805,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -10827,7 +10827,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -10909,7 +10909,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -10931,7 +10931,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -11029,7 +11029,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -11040,7 +11040,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -11109,7 +11109,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -11120,7 +11120,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -11189,7 +11189,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -11200,7 +11200,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -11269,7 +11269,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -11280,7 +11280,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -11349,7 +11349,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -11360,7 +11360,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -11409,7 +11409,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -11501,7 +11501,7 @@ body
    background-color: #000000;
    background-image: none;
    color: #F0D217;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 43px;
@@ -11550,7 +11550,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -11561,7 +11561,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -11594,7 +11594,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -11759,7 +11759,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -11819,7 +11819,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -11956,7 +11956,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -12093,7 +12093,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -13111,7 +13111,7 @@ body
 }
 #headerMenu, .headerMenu .nav, .headerMenu .dropdown-menu
 {
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-size: 19px;
 }
@@ -13142,7 +13142,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -13164,7 +13164,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -13246,7 +13246,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -13268,7 +13268,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -13366,7 +13366,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -13377,7 +13377,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -13446,7 +13446,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -13457,7 +13457,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -13526,7 +13526,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -13537,7 +13537,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -13606,7 +13606,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -13617,7 +13617,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -13686,7 +13686,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -13697,7 +13697,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -13746,7 +13746,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -13838,7 +13838,7 @@ body
    background-color: #000000;
    background-image: none;
    color: #F0D217;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 43px;
@@ -13887,7 +13887,7 @@ body
    margin: -70px 30px 10px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: bold;
    font-style: normal;
    font-size: 21px;
@@ -13898,7 +13898,7 @@ body
    margin: 0px 30px 30px 90px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
@@ -13931,7 +13931,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -14096,7 +14096,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -14156,7 +14156,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -14293,7 +14293,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -14430,7 +14430,7 @@ body
    margin: 20px 20px 0px 20px;
    padding: 0;
    color: #000000;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    font-size: 13px;
@@ -14452,7 +14452,7 @@ body
    margin: 0;
    text-align: center;
    font-size: 13px;
-   font-family: "Kemco Pixel";
+   font-family: "Kemco";
    font-weight: normal;
    font-style: normal;
    text-decoration: underline;
