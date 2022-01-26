@@ -46,6 +46,33 @@ input:focus, textarea:focus, select:focus
 {
    visibility: hidden;
 }
+#GalleryShape2
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#GalleryShape2
+{
+   filter: drop-shadow(0px 0px 5px rgba(68,114,196,0.20));
+}
+#GalleryShape3
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#GalleryShape3
+{
+   filter: drop-shadow(0px 0px 5px rgba(68,114,196,0.20));
+}
+#GalleryShape1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#GalleryShape1
+{
+   filter: drop-shadow(0px 0px 5px rgba(68,114,196,0.20));
+}
 #RoadmapPhaseShape
 {
    border-width: 0;
@@ -173,24 +200,6 @@ input:focus, textarea:focus, select:focus
 {
    border-width: 0;
    vertical-align: top;
-}
-#GalleryShape3
-{
-   border-width: 0;
-   vertical-align: top;
-}
-#GalleryShape3
-{
-   filter: drop-shadow(0px 0px 5px rgba(68,114,196,0.20));
-}
-#GalleryShape2
-{
-   border-width: 0;
-   vertical-align: top;
-}
-#GalleryShape2
-{
-   filter: drop-shadow(0px 0px 5px rgba(68,114,196,0.20));
 }
 #LogoLayer
 {
@@ -696,11 +705,11 @@ input:focus, textarea:focus, select:focus
 }
 #MintButton:hover .ui-primary
 {
-   color: #FFFFFF;
+   color: #000000;
 }
 #MintButton:active .ui-primary
 {
-   color: #000000;
+   color: #FFC000;
 }
 #MintButton.ui-corner-all
 {
@@ -716,22 +725,22 @@ input:focus, textarea:focus, select:focus
 {
    background-color: #0563C1;
    background-image: none;
-   border: 10px solid #0563C1;
+   border: 3px solid #0563C1;
    color: #EEEEEE;
 }
 #MintButton.ui-state-hover, #MintButton.ui-button:hover
-{
-   border-color: #4472C4;
-   background-color: #4472C4;
-   background-image: none;
-   color: #FFFFFF;
-}
-#MintButton.ui-state-active, #MintButton.ui-button:active
 {
    border-color: #FF8000;
    background-color: #FF8000;
    background-image: none;
    color: #000000;
+}
+#MintButton.ui-state-active, #MintButton.ui-button:active
+{
+   border-color: #000000;
+   background-color: #FF8000;
+   background-image: none;
+   color: #FFC000;
 }
 #Shape9
 {
@@ -1468,15 +1477,6 @@ input:focus, textarea:focus, select:focus
 {
    text-align: center;
 }
-#GalleryShape1
-{
-   border-width: 0;
-   vertical-align: top;
-}
-#GalleryShape1
-{
-   filter: drop-shadow(0px 0px 5px rgba(68,114,196,0.20));
-}
 #wb_Question3 
 {
    background-color: transparent;
@@ -2157,6 +2157,60 @@ input:focus, textarea:focus, select:focus
 {
    content: "\e72b";
 }
+#MintNowButton
+{
+   font-family: Pixellari;
+   font-weight: normal;
+   font-size: 19px;
+   font-style: normal;
+   display: inline-block;
+   position: relative;
+   vertical-align: middle;
+   user-select: none;
+   overflow: visible;
+   text-decoration: none;
+   cursor: pointer;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+   vertical-align: top;
+}
+#MintNowButton .ui-button
+{
+   position: absolute;
+   padding: 0;
+}
+#MintNowButton.ui-corner-all
+{
+   border-bottom-left-radius: 10px;
+   border-top-left-radius: 10px;
+}
+#MintNowButton.ui-corner-all
+{
+   border-bottom-right-radius: 10px;
+   border-top-right-radius: 10px;
+}
+#MintNowButton.ui-button
+{
+   background-color: #000000;
+   background-image: none;
+   border: 3px solid #000000;
+   color: #FFFFFF;
+}
+#MintNowButton.ui-state-hover, #MintNowButton.ui-button:hover
+{
+   border-color: #FF8000;
+   background-color: #FF8000;
+   background-image: none;
+   color: #000000;
+}
+#MintNowButton.ui-state-active, #MintNowButton.ui-button:active
+{
+   border-color: #0563C1;
+   background-color: #FF8000;
+   background-image: none;
+   color: #000000;
+}
 @media only screen and (min-width: 768px) and (max-width: 968px)
 {
 div#container
@@ -2170,6 +2224,30 @@ body
    background-attachment: fixed;
    background-position: center center;
    background-repeat: repeat;
+}
+#wb_GalleryShape2
+{
+   left: 38px !important;
+   top: 328px !important;
+   visibility: hidden !important;
+   display: none !important;
+   margin: 0;
+}
+#wb_GalleryShape3
+{
+   left: 38px !important;
+   top: 328px !important;
+   visibility: hidden !important;
+   display: none !important;
+   margin: 0;
+}
+#wb_GalleryShape1
+{
+   left: 38px !important;
+   top: 3874px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
 }
 #wb_RoadmapPhaseShape
 {
@@ -2291,22 +2369,6 @@ body
    top: 1376px !important;
    visibility: visible !important;
    display: inline !important;
-   margin: 0;
-}
-#wb_GalleryShape3
-{
-   left: 38px !important;
-   top: 328px !important;
-   visibility: hidden !important;
-   display: none !important;
-   margin: 0;
-}
-#wb_GalleryShape2
-{
-   left: 38px !important;
-   top: 328px !important;
-   visibility: hidden !important;
-   display: none !important;
    margin: 0;
 }
 #wb_Home
@@ -2671,8 +2733,8 @@ body
 {
    left: 309px !important;
    top: 3705px !important;
-   width: 151px !important;
-   height: 64px !important;
+   width: 150px !important;
+   height: 60px !important;
    visibility: visible !important;
    display: inline !important;
    margin: 0;
@@ -3026,7 +3088,7 @@ body
 #wb_Question2
 {
    left: 30px !important;
-   top: 2px !important;
+   top: 6px !important;
    width: 250px !important;
    height: 16px !important;
    visibility: visible !important;
@@ -3040,7 +3102,7 @@ body
 #wb_Question4
 {
    left: 28px !important;
-   top: -1px !important;
+   top: 7px !important;
    width: 251px !important;
    height: 16px !important;
    visibility: visible !important;
@@ -3054,7 +3116,7 @@ body
 #wb_Question1
 {
    left: 30px !important;
-   top: 2px !important;
+   top: 4px !important;
    width: 249px !important;
    height: 16px !important;
    visibility: visible !important;
@@ -3068,7 +3130,7 @@ body
 #wb_Question5
 {
    left: 28px !important;
-   top: -2px !important;
+   top: 8px !important;
    width: 510px !important;
    height: 256px !important;
    visibility: visible !important;
@@ -3082,7 +3144,7 @@ body
 #wb_Question6
 {
    left: 30px !important;
-   top: 8px !important;
+   top: 20px !important;
    width: 485px !important;
    height: 176px !important;
    visibility: visible !important;
@@ -3168,18 +3230,10 @@ body
    margin: 0;
    padding: 0;
 }
-#wb_GalleryShape1
-{
-   left: 38px !important;
-   top: 3874px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-}
 #wb_Question3
 {
    left: 30px !important;
-   top: -1px !important;
+   top: 5px !important;
    width: 307px !important;
    height: 16px !important;
    visibility: visible !important;
@@ -3193,7 +3247,7 @@ body
 #wb_Text1
 {
    left: 30px !important;
-   top: 2px !important;
+   top: 6px !important;
    width: 250px !important;
    height: 16px !important;
    visibility: visible !important;
@@ -3206,12 +3260,12 @@ body
 }
 #wb_Text2
 {
-   left: 29px !important;
-   top: -3px !important;
+   left: 28px !important;
+   top: 48px !important;
    width: 251px !important;
    height: 16px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 #wb_Text2
 {
@@ -3220,7 +3274,7 @@ body
 }
 #wb_IconFont1
 {
-   left: 440px !important;
+   left: 418px !important;
    top: 23px !important;
    width: 52px !important;
    height: 32px !important;
@@ -3242,7 +3296,7 @@ body
 }
 #wb_IconFont2
 {
-   left: 596px !important;
+   left: 574px !important;
    top: 23px !important;
    width: 52px !important;
    height: 32px !important;
@@ -3270,7 +3324,7 @@ body
 }
 #wb_IconFont3
 {
-   left: 492px !important;
+   left: 470px !important;
    top: 23px !important;
    width: 52px !important;
    height: 32px !important;
@@ -3292,7 +3346,7 @@ body
 }
 #wb_IconFont4
 {
-   left: 544px !important;
+   left: 522px !important;
    top: 23px !important;
    width: 52px !important;
    height: 32px !important;
@@ -3578,6 +3632,21 @@ body
 {
    padding: 0px 15px 0px 0px;
 }
+#MintNowButton
+{
+   left: 650px !important;
+   top: 18px !important;
+   width: 108px !important;
+   height: 42px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+}
+#MintNowButton
+{
+   font-size: 19px;
+   padding: 0;
+}
 }
 @media only screen and (max-width: 767px)
 {
@@ -3592,6 +3661,30 @@ body
    background-attachment: fixed;
    background-position: center center;
    background-repeat: repeat;
+}
+#wb_GalleryShape2
+{
+   left: 264px !important;
+   top: 170px !important;
+   visibility: hidden !important;
+   display: none !important;
+   margin: 0;
+}
+#wb_GalleryShape3
+{
+   left: 264px !important;
+   top: 170px !important;
+   visibility: hidden !important;
+   display: none !important;
+   margin: 0;
+}
+#wb_GalleryShape1
+{
+   left: 264px !important;
+   top: 170px !important;
+   visibility: hidden !important;
+   display: none !important;
+   margin: 0;
 }
 #wb_RoadmapPhaseShape
 {
@@ -3711,22 +3804,6 @@ body
 {
    left: 0px !important;
    top: 419px !important;
-   visibility: hidden !important;
-   display: none !important;
-   margin: 0;
-}
-#wb_GalleryShape3
-{
-   left: 264px !important;
-   top: 170px !important;
-   visibility: hidden !important;
-   display: none !important;
-   margin: 0;
-}
-#wb_GalleryShape2
-{
-   left: 264px !important;
-   top: 170px !important;
    visibility: hidden !important;
    display: none !important;
    margin: 0;
@@ -4453,7 +4530,7 @@ body
 #wb_Question2
 {
    left: 10px !important;
-   top: -72px !important;
+   top: -68px !important;
    width: 250px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -4467,7 +4544,7 @@ body
 #wb_Question4
 {
    left: 10px !important;
-   top: -154px !important;
+   top: -146px !important;
    width: 251px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -4481,7 +4558,7 @@ body
 #wb_Question1
 {
    left: 10px !important;
-   top: -31px !important;
+   top: -29px !important;
    width: 249px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -4495,7 +4572,7 @@ body
 #wb_Question5
 {
    left: 10px !important;
-   top: -195px !important;
+   top: -185px !important;
    width: 510px !important;
    height: 256px !important;
    visibility: hidden !important;
@@ -4509,7 +4586,7 @@ body
 #wb_Question6
 {
    left: 10px !important;
-   top: -236px !important;
+   top: -224px !important;
    width: 485px !important;
    height: 144px !important;
    visibility: hidden !important;
@@ -4602,18 +4679,10 @@ body
    margin: 0;
    padding: 0;
 }
-#wb_GalleryShape1
-{
-   left: 264px !important;
-   top: 170px !important;
-   visibility: hidden !important;
-   display: none !important;
-   margin: 0;
-}
 #wb_Question3
 {
    left: 10px !important;
-   top: -113px !important;
+   top: -107px !important;
    width: 307px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -4627,7 +4696,7 @@ body
 #wb_Text1
 {
    left: 10px !important;
-   top: -72px !important;
+   top: -68px !important;
    width: 250px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -4641,7 +4710,7 @@ body
 #wb_Text2
 {
    left: 10px !important;
-   top: -154px !important;
+   top: -146px !important;
    width: 251px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -5011,5 +5080,20 @@ body
 #wb_CssMenu969 li
 {
    padding: 0px 15px 0px 0px;
+}
+#MintNowButton
+{
+   left: 10px !important;
+   top: 10px !important;
+   width: 103px !important;
+   height: 42px !important;
+   visibility: hidden !important;
+   display: none !important;
+   margin: 0;
+}
+#MintNowButton
+{
+   font-size: 19px;
+   padding: 0;
 }
 }
