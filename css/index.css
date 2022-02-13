@@ -46,6 +46,500 @@ input:focus, textarea:focus, select:focus
 {
    visibility: hidden;
 }
+#RoadmapPhaseShape
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#RoadmapPhaseShape
+{
+   filter: drop-shadow(3px -3px 6px rgba(0,0,0,0.20));
+}
+#wb_ImageRoad
+{
+   vertical-align: top;
+}
+#ImageRoad
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_ImageRoad320
+{
+   vertical-align: top;
+}
+#ImageRoad320
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_RoadmapIcon1
+{
+   background-color: #0563C1;
+   background-image: none;
+   border: 10px solid #0563C1;
+   border-radius: 50px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_RoadmapIcon1:hover
+{
+   background-color: #2DA24E;
+   background-image: none;
+   border: 10px solid #2DA24E;
+}
+#RoadmapIcon1
+{
+   height: 20px;
+   width: 20px;
+}
+.RoadmapIcon1
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: CaptainIcon;
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.RoadmapIcon1:before
+{
+   content: "\e75a";
+}
+#RoadmapIcon1 i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 20px;
+   line-height: 20px;
+   vertical-align: middle;
+   width: 19px;
+}
+#RoadmapIcon1:hover i
+{
+   color: #000000;
+}
+#wb_Phase2Icon
+{
+   background-color: #0563C1;
+   background-image: none;
+   border: 10px solid #0563C1;
+   border-radius: 50px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_Phase2Icon:hover
+{
+   background-color: #FF8000;
+   background-image: none;
+   border: 10px solid #FF8000;
+}
+#Phase2Icon
+{
+   height: 20px;
+   width: 20px;
+}
+.Phase2Icon
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: CaptainIcon;
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.Phase2Icon:before
+{
+   content: "\e623";
+}
+#Phase2Icon i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 20px;
+   line-height: 20px;
+   vertical-align: middle;
+   width: 19px;
+}
+#Phase2Icon:hover i
+{
+   color: #000000;
+}
+#wb_Phase3Icon
+{
+   background-color: #0563C1;
+   background-image: none;
+   border: 10px solid #0563C1;
+   border-radius: 50px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_Phase3Icon:hover
+{
+   background-color: #FF8000;
+   background-image: none;
+   border: 10px solid #FF8000;
+}
+#Phase3Icon
+{
+   height: 20px;
+   width: 20px;
+}
+.Phase3Icon
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: CaptainIcon;
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.Phase3Icon:before
+{
+   content: "\e6d2";
+}
+#Phase3Icon i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 20px;
+   line-height: 20px;
+   vertical-align: middle;
+   width: 19px;
+}
+#Phase3Icon:hover i
+{
+   color: #000000;
+}
+#wb_Phase5Icon
+{
+   background-color: #0563C1;
+   background-image: none;
+   border: 10px solid #0563C1;
+   border-radius: 50px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_Phase5Icon:hover
+{
+   background-color: #FF8000;
+   background-image: none;
+   border: 10px solid #FF8000;
+}
+#Phase5Icon
+{
+   height: 20px;
+   width: 20px;
+}
+.Phase5Icon
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: CaptainIcon;
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.Phase5Icon:before
+{
+   content: "\e696";
+}
+#Phase5Icon i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 20px;
+   line-height: 20px;
+   vertical-align: middle;
+   width: 19px;
+}
+#Phase5Icon:hover i
+{
+   color: #000000;
+}
+#wb_Phase4Icon
+{
+   background-color: #0563C1;
+   background-image: none;
+   border: 10px solid #0563C1;
+   border-radius: 50px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_Phase4Icon:hover
+{
+   background-color: #FF8000;
+   background-image: none;
+   border: 10px solid #FF8000;
+}
+#Phase4Icon
+{
+   height: 20px;
+   width: 20px;
+}
+.Phase4Icon
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: CaptainIcon;
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.Phase4Icon:before
+{
+   content: "\e60c";
+}
+#Phase4Icon i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 20px;
+   line-height: 20px;
+   vertical-align: middle;
+   width: 19px;
+}
+#Phase4Icon:hover i
+{
+   color: #000000;
+}
+#wb_TextRoad5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_TextRoad5 div
+{
+   text-align: left;
+}
+#wb_TextRoad5:hover
+{
+   color: #FFC000;
+   -webkit-transition: color 500ms linear 0ms;
+   transition: color 500ms linear 0ms;
+}
+#wb_TextRoad4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_TextRoad4 div
+{
+   text-align: left;
+}
+#wb_TextRoad4:hover
+{
+   color: #FFC000;
+   -webkit-transition: color 500ms linear 0ms;
+   transition: color 500ms linear 0ms;
+}
+#wb_TextRoad3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_TextRoad3 div
+{
+   text-align: left;
+}
+#wb_TextRoad3:hover
+{
+   color: #FFC000;
+   -webkit-transition: color 500ms linear 0ms;
+   transition: color 500ms linear 0ms;
+}
+#wb_TextRoad2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_TextRoad2 div
+{
+   text-align: left;
+}
+#wb_TextRoad2:hover
+{
+   color: #FFC000;
+   -webkit-transition: color 500ms linear 0ms;
+   transition: color 500ms linear 0ms;
+}
+#wb_TextRoad1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_TextRoad1 div
+{
+   text-align: left;
+}
+#wb_TextRoad1:hover
+{
+   color: #FFC000;
+   -webkit-transition: color 500ms linear 0ms;
+   transition: color 500ms linear 0ms;
+}
+#RoadmapShape768
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Text2Road768 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2Road768 div
+{
+   text-align: left;
+}
+#wb_Text2Road768:hover
+{
+   color: #FFC000;
+   -webkit-transition: color 500ms linear 0ms;
+   transition: color 500ms linear 0ms;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#wb_Text8:hover
+{
+   color: #FFC000;
+   -webkit-transition: color 500ms linear 0ms;
+   transition: color 500ms linear 0ms;
+}
+#wb_Text3Road768 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3Road768 div
+{
+   text-align: left;
+}
+#wb_Text3Road768:hover
+{
+   color: #FFC000;
+   -webkit-transition: color 500ms linear 0ms;
+   transition: color 500ms linear 0ms;
+}
+#wb_Text4Road768 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4Road768 div
+{
+   text-align: left;
+}
+#wb_Text4Road768:hover
+{
+   color: #FFC000;
+   -webkit-transition: color 500ms linear 0ms;
+   transition: color 500ms linear 0ms;
+}
+#wb_Text5Road768 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5Road768 div
+{
+   text-align: left;
+}
+#wb_Text5Road768:hover
+{
+   color: #FFC000;
+   -webkit-transition: color 500ms linear 0ms;
+   transition: color 500ms linear 0ms;
+}
 #MediaPlayer1
 {
    left: 0;
@@ -79,15 +573,6 @@ input:focus, textarea:focus, select:focus
 #GalleryShape1
 {
    filter: drop-shadow(0px 0px 5px rgba(68,114,196,0.20));
-}
-#RoadmapPhaseShape
-{
-   border-width: 0;
-   vertical-align: top;
-}
-#RoadmapPhaseShape
-{
-   filter: drop-shadow(3px -3px 6px rgba(0,0,0,0.20));
 }
 #ShapeP1
 {
@@ -202,11 +687,6 @@ input:focus, textarea:focus, select:focus
 #FaqShape2
 {
    filter: drop-shadow(0px 0px 5px rgba(68,114,196,0.20));
-}
-#RoadmapShape768
-{
-   border-width: 0;
-   vertical-align: top;
 }
 #LogoLayer
 {
@@ -475,7 +955,7 @@ input:focus, textarea:focus, select:focus
 {
    font-family: Pixellari;
    font-weight: normal;
-   font-size: 16px !important;
+   font-size: 19px !important;
    font-style: normal;
    outline: none;
    padding: 10px 10px 10px 30px;
@@ -547,56 +1027,6 @@ input:focus, textarea:focus, select:focus
 #wb_FaqAccordion
 {
    margin: 0;
-}
-#wb_RoadmapIcon1
-{
-   background-color: #0563C1;
-   background-image: none;
-   border: 10px solid #0563C1;
-   border-radius: 50px;
-   text-align: center;
-   margin: 0;
-   padding: 0;
-   vertical-align: top;
-}
-#wb_RoadmapIcon1:hover
-{
-   background-color: #2DA24E;
-   background-image: none;
-   border: 10px solid #2DA24E;
-}
-#RoadmapIcon1
-{
-   height: 20px;
-   width: 20px;
-}
-.RoadmapIcon1
-{
-   position: relative;
-   left: 0;
-   top: 0;
-   display: inline-block;
-   font-family: CaptainIcon;
-   font-style: normal;
-   font-weight: normal;
-   line-height: 1;
-}
-.RoadmapIcon1:before
-{
-   content: "\e75a";
-}
-#RoadmapIcon1 i
-{
-   color: #FFFFFF;
-   display: inline-block;
-   font-size: 20px;
-   line-height: 20px;
-   vertical-align: middle;
-   width: 19px;
-}
-#RoadmapIcon1:hover i
-{
-   color: #000000;
 }
 #wb_AboutTitle 
 {
@@ -772,56 +1202,6 @@ input:focus, textarea:focus, select:focus
 {
    text-align: left;
 }
-#wb_Phase5Icon
-{
-   background-color: #0563C1;
-   background-image: none;
-   border: 10px solid #0563C1;
-   border-radius: 50px;
-   text-align: center;
-   margin: 0;
-   padding: 0;
-   vertical-align: top;
-}
-#wb_Phase5Icon:hover
-{
-   background-color: #FF8000;
-   background-image: none;
-   border: 10px solid #FF8000;
-}
-#Phase5Icon
-{
-   height: 20px;
-   width: 20px;
-}
-.Phase5Icon
-{
-   position: relative;
-   left: 0;
-   top: 0;
-   display: inline-block;
-   font-family: CaptainIcon;
-   font-style: normal;
-   font-weight: normal;
-   line-height: 1;
-}
-.Phase5Icon:before
-{
-   content: "\e696";
-}
-#Phase5Icon i
-{
-   color: #FFFFFF;
-   display: inline-block;
-   font-size: 20px;
-   line-height: 20px;
-   vertical-align: middle;
-   width: 19px;
-}
-#Phase5Icon:hover i
-{
-   color: #000000;
-}
 #wb_TitleP5 
 {
    background-color: transparent;
@@ -856,56 +1236,6 @@ input:focus, textarea:focus, select:focus
    background: #FF8000;
    -webkit-transition: background 500ms linear 0ms;
    transition: background 500ms linear 0ms;
-}
-#wb_Phase4Icon
-{
-   background-color: #0563C1;
-   background-image: none;
-   border: 10px solid #0563C1;
-   border-radius: 50px;
-   text-align: center;
-   margin: 0;
-   padding: 0;
-   vertical-align: top;
-}
-#wb_Phase4Icon:hover
-{
-   background-color: #FF8000;
-   background-image: none;
-   border: 10px solid #FF8000;
-}
-#Phase4Icon
-{
-   height: 20px;
-   width: 20px;
-}
-.Phase4Icon
-{
-   position: relative;
-   left: 0;
-   top: 0;
-   display: inline-block;
-   font-family: CaptainIcon;
-   font-style: normal;
-   font-weight: normal;
-   line-height: 1;
-}
-.Phase4Icon:before
-{
-   content: "\e60c";
-}
-#Phase4Icon i
-{
-   color: #FFFFFF;
-   display: inline-block;
-   font-size: 20px;
-   line-height: 20px;
-   vertical-align: middle;
-   width: 19px;
-}
-#Phase4Icon:hover i
-{
-   color: #000000;
 }
 #wb_TitleP4 
 {
@@ -956,56 +1286,6 @@ input:focus, textarea:focus, select:focus
 {
    text-align: left;
 }
-#wb_Phase3Icon
-{
-   background-color: #0563C1;
-   background-image: none;
-   border: 10px solid #0563C1;
-   border-radius: 50px;
-   text-align: center;
-   margin: 0;
-   padding: 0;
-   vertical-align: top;
-}
-#wb_Phase3Icon:hover
-{
-   background-color: #FF8000;
-   background-image: none;
-   border: 10px solid #FF8000;
-}
-#Phase3Icon
-{
-   height: 20px;
-   width: 20px;
-}
-.Phase3Icon
-{
-   position: relative;
-   left: 0;
-   top: 0;
-   display: inline-block;
-   font-family: CaptainIcon;
-   font-style: normal;
-   font-weight: normal;
-   line-height: 1;
-}
-.Phase3Icon:before
-{
-   content: "\e6d2";
-}
-#Phase3Icon i
-{
-   color: #FFFFFF;
-   display: inline-block;
-   font-size: 20px;
-   line-height: 20px;
-   vertical-align: middle;
-   width: 19px;
-}
-#Phase3Icon:hover i
-{
-   color: #000000;
-}
 #wb_TextP2 
 {
    background-color: #0563C1;
@@ -1026,56 +1306,6 @@ input:focus, textarea:focus, select:focus
    background: #FF8000;
    -webkit-transition: background 500ms linear 0ms;
    transition: background 500ms linear 0ms;
-}
-#wb_Phase2Icon
-{
-   background-color: #0563C1;
-   background-image: none;
-   border: 10px solid #0563C1;
-   border-radius: 50px;
-   text-align: center;
-   margin: 0;
-   padding: 0;
-   vertical-align: top;
-}
-#wb_Phase2Icon:hover
-{
-   background-color: #FF8000;
-   background-image: none;
-   border: 10px solid #FF8000;
-}
-#Phase2Icon
-{
-   height: 20px;
-   width: 20px;
-}
-.Phase2Icon
-{
-   position: relative;
-   left: 0;
-   top: 0;
-   display: inline-block;
-   font-family: CaptainIcon;
-   font-style: normal;
-   font-weight: normal;
-   line-height: 1;
-}
-.Phase2Icon:before
-{
-   content: "\e623";
-}
-#Phase2Icon i
-{
-   color: #FFFFFF;
-   display: inline-block;
-   font-size: 20px;
-   line-height: 20px;
-   vertical-align: middle;
-   width: 19px;
-}
-#Phase2Icon:hover i
-{
-   color: #000000;
 }
 #wb_TitleP2 
 {
@@ -2232,6 +2462,294 @@ body
    background-position: center center;
    background-repeat: repeat;
 }
+#wb_RoadmapPhaseShape
+{
+   left: 38px !important;
+   top: 1369px !important;
+   visibility: hidden !important;
+   display: none !important;
+   margin: 0;
+}
+#wb_ImageRoad
+{
+   left: 39px !important;
+   top: 1376px !important;
+   width: 703px !important;
+   height: 1414px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_ImageRoad320
+{
+   left: 24px !important;
+   top: 1339px !important;
+   width: 258px !important;
+   height: 508px !important;
+   visibility: hidden !important;
+   display: none !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_RoadmapIcon1
+{
+   left: 237px !important;
+   top: 1602px !important;
+   width: 20px !important;
+   height: 20px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#RoadmapIcon1
+{
+   width: 20px;
+   height: 20px;
+}
+#RoadmapIcon1 i
+{
+   line-height: 20px;
+   font-size: 20px;
+   width: 19px;
+}
+#wb_Phase2Icon
+{
+   left: 306px !important;
+   top: 1891px !important;
+   width: 20px !important;
+   height: 20px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#Phase2Icon
+{
+   width: 20px;
+   height: 20px;
+}
+#Phase2Icon i
+{
+   line-height: 20px;
+   font-size: 20px;
+   width: 19px;
+}
+#wb_Phase3Icon
+{
+   left: 237px !important;
+   top: 2153px !important;
+   width: 20px !important;
+   height: 20px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#Phase3Icon
+{
+   width: 20px;
+   height: 20px;
+}
+#Phase3Icon i
+{
+   line-height: 20px;
+   font-size: 20px;
+   width: 19px;
+}
+#wb_Phase5Icon
+{
+   left: 237px !important;
+   top: 2714px !important;
+   width: 20px !important;
+   height: 20px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#Phase5Icon
+{
+   width: 20px;
+   height: 20px;
+}
+#Phase5Icon i
+{
+   line-height: 20px;
+   font-size: 20px;
+   width: 19px;
+}
+#wb_Phase4Icon
+{
+   left: 306px !important;
+   top: 2449px !important;
+   width: 20px !important;
+   height: 20px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#Phase4Icon
+{
+   width: 20px;
+   height: 20px;
+}
+#Phase4Icon i
+{
+   line-height: 20px;
+   font-size: 20px;
+   width: 19px;
+}
+#wb_TextRoad5
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_TextRoad5
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_TextRoad4
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_TextRoad4
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_TextRoad3
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_TextRoad3
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_TextRoad2
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_TextRoad2
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_TextRoad1
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_TextRoad1
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_RoadmapShape768
+{
+   left: 38px !important;
+   top: 1376px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+}
+#wb_Text2Road768
+{
+   left: 98px !important;
+   top: 1450px !important;
+   width: 499px !important;
+   height: 121px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+#wb_Text2Road768
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text8
+{
+   left: 172px !important;
+   top: 1712px !important;
+   width: 499px !important;
+   height: 156px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+#wb_Text8
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text3Road768
+{
+   left: 98px !important;
+   top: 1997px !important;
+   width: 499px !important;
+   height: 119px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+#wb_Text3Road768
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text4Road768
+{
+   left: 172px !important;
+   top: 2263px !important;
+   width: 499px !important;
+   height: 136px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+#wb_Text4Road768
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text5Road768
+{
+   left: 98px !important;
+   top: 2560px !important;
+   width: 499px !important;
+   height: 35px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+#wb_Text5Road768
+{
+   margin: 0;
+   padding: 0;
+}
 #wb_MediaPlayer1
 {
    left: 380px !important;
@@ -2266,20 +2784,12 @@ body
    display: inline !important;
    margin: 0;
 }
-#wb_RoadmapPhaseShape
-{
-   left: 38px !important;
-   top: 1369px !important;
-   visibility: hidden !important;
-   display: none !important;
-   margin: 0;
-}
 #wb_ShapeP1
 {
    left: 136px !important;
    top: 1426px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
    margin: 0;
 }
 #wb_TitleP1
@@ -2288,8 +2798,8 @@ body
    top: 1410px !important;
    width: 103px !important;
    height: 16px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 #wb_TitleP1
 {
@@ -2380,20 +2890,12 @@ body
    display: none !important;
    margin: 0;
 }
-#wb_RoadmapShape768
-{
-   left: 38px !important;
-   top: 1376px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-}
 #wb_Home
 {
-   left: 8px !important;
-   top: 18px !important;
-   width: 17px !important;
-   height: 26px !important;
+   left: 396px !important;
+   top: 0px !important;
+   width: 22px !important;
+   height: 24px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -2435,11 +2937,11 @@ body
 #wb_TextP1
 {
    left: 80px !important;
-   top: 1464px !important;
+   top: 1434px !important;
    width: 507px !important;
    height: 176px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
    border: 5px solid #000000;
    border-radius: 4px;
    box-shadow: 0px 0px 5px #4472C4;
@@ -2624,32 +3126,32 @@ body
 {
    left: 136px !important;
    top: 2578px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
    margin: 0;
 }
 #wb_ShapeP4
 {
    left: 136px !important;
    top: 2277px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
    margin: 0;
 }
 #wb_ShapeP3
 {
    left: 136px !important;
    top: 2009px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
    margin: 0;
 }
 #wb_ShapeP2
 {
    left: 136px !important;
    top: 1714px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
    margin: 0;
 }
 #wb_RoadmapShape1
@@ -2663,34 +3165,12 @@ body
 #wb_FaqAccordion
 {
    left: 38px !important;
-   top: 2970px !important;
+   top: 2971px !important;
    width: 704px !important;
-   height: 511px !important;
+   height: 569px !important;
    visibility: visible !important;
    display: inline-block !important;
    margin: 0;
-}
-#wb_RoadmapIcon1
-{
-   left: 76px !important;
-   top: 1394px !important;
-   width: 20px !important;
-   height: 20px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-   padding: 0;
-}
-#RoadmapIcon1
-{
-   width: 20px;
-   height: 20px;
-}
-#RoadmapIcon1 i
-{
-   line-height: 20px;
-   font-size: 20px;
-   width: 19px;
 }
 #wb_AboutTitle
 {
@@ -2714,12 +3194,12 @@ body
 }
 #wb_TextP5
 {
-   left: 80px !important;
-   top: 2616px !important;
+   left: 77px !important;
+   top: 2615px !important;
    width: 506px !important;
    height: 80px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 #wb_TextP5
 {
@@ -2740,6 +3220,9 @@ body
    top: 3850px !important;
    visibility: visible !important;
    display: inline !important;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
 }
 #wb_GalleryTitle
 {
@@ -2781,36 +3264,14 @@ body
    margin: 0;
    padding: 0;
 }
-#wb_Phase5Icon
-{
-   left: 76px !important;
-   top: 2546px !important;
-   width: 20px !important;
-   height: 20px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-   padding: 0;
-}
-#Phase5Icon
-{
-   width: 20px;
-   height: 20px;
-}
-#Phase5Icon i
-{
-   line-height: 20px;
-   font-size: 20px;
-   width: 19px;
-}
 #wb_TitleP5
 {
    left: 136px !important;
    top: 2562px !important;
    width: 111px !important;
    height: 16px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 #wb_TitleP5
 {
@@ -2823,35 +3284,13 @@ body
    top: 2315px !important;
    width: 506px !important;
    height: 189px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 #wb_TextP4
 {
    margin: 0;
    padding: 0;
-}
-#wb_Phase4Icon
-{
-   left: 76px !important;
-   top: 2245px !important;
-   width: 20px !important;
-   height: 20px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-   padding: 0;
-}
-#Phase4Icon
-{
-   width: 20px;
-   height: 20px;
-}
-#Phase4Icon i
-{
-   line-height: 20px;
-   font-size: 20px;
-   width: 19px;
 }
 #wb_TitleP4
 {
@@ -2859,8 +3298,8 @@ body
    top: 2261px !important;
    width: 124px !important;
    height: 16px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 #wb_TitleP4
 {
@@ -2873,8 +3312,8 @@ body
    top: 2047px !important;
    width: 506px !important;
    height: 156px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 #wb_TextP3
 {
@@ -2887,35 +3326,13 @@ body
    top: 1993px !important;
    width: 111px !important;
    height: 16px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 #wb_TitleP3
 {
    margin: 0;
    padding: 0;
-}
-#wb_Phase3Icon
-{
-   left: 76px !important;
-   top: 1977px !important;
-   width: 20px !important;
-   height: 20px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-   padding: 0;
-}
-#Phase3Icon
-{
-   width: 20px;
-   height: 20px;
-}
-#Phase3Icon i
-{
-   line-height: 20px;
-   font-size: 20px;
-   width: 19px;
 }
 #wb_TextP2
 {
@@ -2923,35 +3340,13 @@ body
    top: 1752px !important;
    width: 506px !important;
    height: 183px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 #wb_TextP2
 {
    margin: 0;
    padding: 0;
-}
-#wb_Phase2Icon
-{
-   left: 76px !important;
-   top: 1682px !important;
-   width: 20px !important;
-   height: 20px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-   padding: 0;
-}
-#Phase2Icon
-{
-   width: 20px;
-   height: 20px;
-}
-#Phase2Icon i
-{
-   line-height: 20px;
-   font-size: 20px;
-   width: 19px;
 }
 #wb_TitleP2
 {
@@ -2959,8 +3354,8 @@ body
    top: 1698px !important;
    width: 124px !important;
    height: 16px !important;
-   visibility: visible !important;
-   display: inline !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 #wb_TitleP2
 {
@@ -2992,7 +3387,7 @@ body
    left: 38px !important;
    top: 379px !important;
    width: 329px !important;
-   height: 764px !important;
+   height: 824px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -3104,10 +3499,10 @@ body
 }
 #wb_Question2
 {
-   left: 30px !important;
-   top: 6px !important;
+   left: 29px !important;
+   top: 15px !important;
    width: 250px !important;
-   height: 16px !important;
+   height: 19px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -3118,10 +3513,10 @@ body
 }
 #wb_Question4
 {
-   left: 28px !important;
-   top: 7px !important;
+   left: 29px !important;
+   top: 14px !important;
    width: 251px !important;
-   height: 16px !important;
+   height: 19px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -3132,10 +3527,10 @@ body
 }
 #wb_Question1
 {
-   left: 30px !important;
-   top: 4px !important;
+   left: 29px !important;
+   top: 11px !important;
    width: 249px !important;
-   height: 16px !important;
+   height: 19px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -3146,10 +3541,10 @@ body
 }
 #wb_Question5
 {
-   left: 28px !important;
-   top: 8px !important;
-   width: 510px !important;
-   height: 256px !important;
+   left: 29px !important;
+   top: 18px !important;
+   width: 644px !important;
+   height: 264px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -3160,10 +3555,10 @@ body
 }
 #wb_Question6
 {
-   left: 30px !important;
-   top: 20px !important;
+   left: 29px !important;
+   top: 16px !important;
    width: 485px !important;
-   height: 176px !important;
+   height: 168px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -3193,27 +3588,9 @@ body
 #wb_Faq
 {
    left: 39px !important;
-   top: 2833px !important;
+   top: 2828px !important;
    width: 17px !important;
    height: 17px !important;
-   visibility: visible !important;
-   display: inline !important;
-}
-#wb_Mint
-{
-   left: 380px !important;
-   top: 3607px !important;
-   width: 20px !important;
-   height: 20px !important;
-   visibility: visible !important;
-   display: inline !important;
-}
-#wb_Gallery
-{
-   left: 39px !important;
-   top: 3747px !important;
-   width: 17px !important;
-   height: 22px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -3249,10 +3626,10 @@ body
 }
 #wb_Question3
 {
-   left: 30px !important;
-   top: 5px !important;
-   width: 307px !important;
-   height: 16px !important;
+   left: 29px !important;
+   top: 12px !important;
+   width: 372px !important;
+   height: 19px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -3263,12 +3640,12 @@ body
 }
 #wb_Text1
 {
-   left: 30px !important;
-   top: 6px !important;
+   left: 68px !important;
+   top: 3055px !important;
    width: 250px !important;
-   height: 16px !important;
-   visibility: visible !important;
-   display: inline !important;
+   height: 19px !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 #wb_Text1
 {
@@ -3278,7 +3655,7 @@ body
 #wb_Text2
 {
    left: 28px !important;
-   top: 48px !important;
+   top: 36px !important;
    width: 251px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -3664,6 +4041,24 @@ body
    font-size: 19px;
    padding: 0;
 }
+#wb_Mint
+{
+   left: 380px !important;
+   top: 3607px !important;
+   width: 20px !important;
+   height: 20px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+#wb_Gallery
+{
+   left: 39px !important;
+   top: 3747px !important;
+   width: 17px !important;
+   height: 22px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
 }
 @media only screen and (max-width: 767px)
 {
@@ -3678,6 +4073,294 @@ body
    background-attachment: fixed;
    background-position: center center;
    background-repeat: repeat;
+}
+#wb_RoadmapPhaseShape
+{
+   left: 0px !important;
+   top: 419px !important;
+   visibility: hidden !important;
+   display: none !important;
+   margin: 0;
+}
+#wb_ImageRoad
+{
+   left: 20px !important;
+   top: 1376px !important;
+   width: 276px !important;
+   height: 1414px !important;
+   visibility: hidden !important;
+   display: none !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_ImageRoad320
+{
+   left: 16px !important;
+   top: 1389px !important;
+   width: 281px !important;
+   height: 1555px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_RoadmapIcon1
+{
+   left: 139px !important;
+   top: 1399px !important;
+   width: 18px !important;
+   height: 18px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#RoadmapIcon1
+{
+   width: 18px;
+   height: 18px;
+}
+#RoadmapIcon1 i
+{
+   line-height: 18px;
+   font-size: 18px;
+   width: 17px;
+}
+#wb_Phase2Icon
+{
+   left: 139px !important;
+   top: 1735px !important;
+   width: 18px !important;
+   height: 18px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#Phase2Icon
+{
+   width: 18px;
+   height: 18px;
+}
+#Phase2Icon i
+{
+   line-height: 18px;
+   font-size: 18px;
+   width: 17px;
+}
+#wb_Phase3Icon
+{
+   left: 139px !important;
+   top: 2099px !important;
+   width: 18px !important;
+   height: 18px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#Phase3Icon
+{
+   width: 18px;
+   height: 18px;
+}
+#Phase3Icon i
+{
+   line-height: 18px;
+   font-size: 18px;
+   width: 17px;
+}
+#wb_Phase5Icon
+{
+   left: 139px !important;
+   top: 2747px !important;
+   width: 18px !important;
+   height: 18px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#Phase5Icon
+{
+   width: 18px;
+   height: 18px;
+}
+#Phase5Icon i
+{
+   line-height: 18px;
+   font-size: 18px;
+   width: 17px;
+}
+#wb_Phase4Icon
+{
+   left: 139px !important;
+   top: 2409px !important;
+   width: 18px !important;
+   height: 18px !important;
+   visibility: visible !important;
+   display: inline !important;
+   margin: 0;
+   padding: 0;
+}
+#Phase4Icon
+{
+   width: 18px;
+   height: 18px;
+}
+#Phase4Icon i
+{
+   line-height: 18px;
+   font-size: 18px;
+   width: 17px;
+}
+#wb_TextRoad5
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_TextRoad5
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_TextRoad4
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_TextRoad4
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_TextRoad3
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_TextRoad3
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_TextRoad2
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_TextRoad2
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_TextRoad1
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_TextRoad1
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_RoadmapShape768
+{
+   left: 0px !important;
+   top: 419px !important;
+   visibility: hidden !important;
+   display: none !important;
+   margin: 0;
+}
+#wb_Text2Road768
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_Text2Road768
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text8
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_Text8
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text3Road768
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_Text3Road768
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text4Road768
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_Text4Road768
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text5Road768
+{
+   left: 152px !important;
+   top: 1378px !important;
+   width: 636px !important;
+   height: 140px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_Text5Road768
+{
+   margin: 0;
+   padding: 0;
 }
 #wb_MediaPlayer1
 {
@@ -3713,14 +4396,6 @@ body
    display: none !important;
    margin: 0;
 }
-#wb_RoadmapPhaseShape
-{
-   left: 0px !important;
-   top: 419px !important;
-   visibility: hidden !important;
-   display: none !important;
-   margin: 0;
-}
 #wb_ShapeP1
 {
    left: 264px !important;
@@ -3731,8 +4406,8 @@ body
 }
 #wb_TitleP1
 {
-   left: 107px !important;
-   top: 1396px !important;
+   left: 108px !important;
+   top: 1441px !important;
    width: 99px !important;
    height: 16px !important;
    visibility: visible !important;
@@ -3827,18 +4502,10 @@ body
    display: none !important;
    margin: 0;
 }
-#wb_RoadmapShape768
-{
-   left: 0px !important;
-   top: 419px !important;
-   visibility: hidden !important;
-   display: none !important;
-   margin: 0;
-}
 #wb_Home
 {
-   left: 1px !important;
-   top: 8px !important;
+   left: 17px !important;
+   top: 14px !important;
    width: 17px !important;
    height: 26px !important;
    visibility: hidden !important;
@@ -3881,10 +4548,10 @@ body
 }
 #wb_TextP1
 {
-   left: 20px !important;
-   top: 1426px !important;
+   left: 21px !important;
+   top: 1471px !important;
    width: 262px !important;
-   height: 234px !important;
+   height: 224px !important;
    visibility: visible !important;
    display: inline !important;
    border: 5px solid #000000;
@@ -3899,9 +4566,9 @@ body
 #wb_FaqText1
 {
    left: 16px !important;
-   top: 2963px !important;
+   top: 3050px !important;
    width: 262px !important;
-   height: 110px !important;
+   height: 98px !important;
    visibility: visible !important;
    display: inline !important;
    background-color: #0563C1;
@@ -3918,9 +4585,9 @@ body
 #wb_FaqText2
 {
    left: 16px !important;
-   top: 3083px !important;
+   top: 3158px !important;
    width: 262px !important;
-   height: 133px !important;
+   height: 117px !important;
    visibility: visible !important;
    display: inline !important;
    background-color: #0563C1;
@@ -3937,9 +4604,9 @@ body
 #wb_FaqText3
 {
    left: 16px !important;
-   top: 3226px !important;
+   top: 3285px !important;
    width: 262px !important;
-   height: 155px !important;
+   height: 151px !important;
    visibility: visible !important;
    display: inline !important;
    background-color: #0563C1;
@@ -3956,9 +4623,9 @@ body
 #wb_FaqText4
 {
    left: 16px !important;
-   top: 3391px !important;
+   top: 3446px !important;
    width: 262px !important;
-   height: 110px !important;
+   height: 98px !important;
    visibility: visible !important;
    display: inline !important;
    background-color: #0563C1;
@@ -3975,9 +4642,9 @@ body
 #wb_FaqText5
 {
    left: 16px !important;
-   top: 3511px !important;
+   top: 3554px !important;
    width: 262px !important;
-   height: 579px !important;
+   height: 562px !important;
    visibility: visible !important;
    display: inline !important;
    background-color: #0563C1;
@@ -3994,9 +4661,9 @@ body
 #wb_FaqText6
 {
    left: 16px !important;
-   top: 4100px !important;
+   top: 4126px !important;
    width: 262px !important;
-   height: 372px !important;
+   height: 374px !important;
    visibility: visible !important;
    display: inline !important;
    background-color: #0563C1;
@@ -4028,7 +4695,7 @@ body
 #Footer
 {
    left: 0px !important;
-   top: 5081px !important;
+   top: 5199px !important;
    height: 74px !important;
    visibility: visible !important;
    display: block !important;
@@ -4122,28 +4789,6 @@ body
    display: none !important;
    margin: 0;
 }
-#wb_RoadmapIcon1
-{
-   left: 138px !important;
-   top: 1354px !important;
-   width: 18px !important;
-   height: 18px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-   padding: 0;
-}
-#RoadmapIcon1
-{
-   width: 18px;
-   height: 18px;
-}
-#RoadmapIcon1 i
-{
-   line-height: 18px;
-   font-size: 18px;
-   width: 17px;
-}
 #wb_AboutTitle
 {
    left: 52px !important;
@@ -4166,10 +4811,10 @@ body
 }
 #wb_TextP5
 {
-   left: 20px !important;
-   top: 2778px !important;
+   left: 21px !important;
+   top: 2823px !important;
    width: 262px !important;
-   height: 78px !important;
+   height: 96px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -4181,7 +4826,7 @@ body
 #wb_GalleryShape
 {
    left: 16px !important;
-   top: 4672px !important;
+   top: 4790px !important;
    visibility: visible !important;
    display: inline !important;
    margin: 0;
@@ -4189,9 +4834,12 @@ body
 #wb_GalleryTitle
 {
    left: 52px !important;
-   top: 4643px !important;
+   top: 4761px !important;
    visibility: visible !important;
    display: inline !important;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
 }
 #wb_GalleryTitle
 {
@@ -4200,8 +4848,8 @@ body
 }
 #MintButton
 {
-   left: 82px !important;
-   top: 4531px !important;
+   left: 80px !important;
+   top: 4582px !important;
    width: 124px !important;
    height: 53px !important;
    visibility: visible !important;
@@ -4216,7 +4864,7 @@ body
 #wb_Shape9
 {
    left: 16px !important;
-   top: 2934px !important;
+   top: 3021px !important;
    visibility: visible !important;
    display: inline !important;
    margin: 0;
@@ -4224,7 +4872,7 @@ body
 #wb_FaqTitle
 {
    left: 52px !important;
-   top: 2905px !important;
+   top: 2992px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -4233,34 +4881,12 @@ body
    margin: 0;
    padding: 0;
 }
-#wb_Phase5Icon
-{
-   left: 138px !important;
-   top: 2702px !important;
-   width: 18px !important;
-   height: 18px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-   padding: 0;
-}
-#Phase5Icon
-{
-   width: 18px;
-   height: 18px;
-}
-#Phase5Icon i
-{
-   line-height: 18px;
-   font-size: 18px;
-   width: 17px;
-}
 #wb_TitleP5
 {
-   left: 104px !important;
-   top: 2744px !important;
+   left: 105px !important;
+   top: 2789px !important;
    width: 109px !important;
-   height: 20px !important;
+   height: 16px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -4271,10 +4897,10 @@ body
 }
 #wb_TextP4
 {
-   left: 20px !important;
-   top: 2440px !important;
+   left: 21px !important;
+   top: 2485px !important;
    width: 262px !important;
-   height: 232px !important;
+   height: 229px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -4282,35 +4908,13 @@ body
 {
    margin: 0;
    padding: 0;
-}
-#wb_Phase4Icon
-{
-   left: 138px !important;
-   top: 2364px !important;
-   width: 18px !important;
-   height: 18px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-   padding: 0;
-}
-#Phase4Icon
-{
-   width: 18px;
-   height: 18px;
-}
-#Phase4Icon i
-{
-   line-height: 18px;
-   font-size: 18px;
-   width: 17px;
 }
 #wb_TitleP4
 {
-   left: 98px !important;
-   top: 2406px !important;
+   left: 99px !important;
+   top: 2451px !important;
    width: 116px !important;
-   height: 20px !important;
+   height: 16px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -4321,8 +4925,8 @@ body
 }
 #wb_TextP3
 {
-   left: 20px !important;
-   top: 2131px !important;
+   left: 21px !important;
+   top: 2176px !important;
    width: 262px !important;
    height: 204px !important;
    visibility: visible !important;
@@ -4335,10 +4939,10 @@ body
 }
 #wb_TitleP3
 {
-   left: 103px !important;
-   top: 2096px !important;
+   left: 104px !important;
+   top: 2141px !important;
    width: 109px !important;
-   height: 20px !important;
+   height: 16px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -4347,34 +4951,12 @@ body
    margin: 0;
    padding: 0;
 }
-#wb_Phase3Icon
-{
-   left: 138px !important;
-   top: 2054px !important;
-   width: 18px !important;
-   height: 18px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-   padding: 0;
-}
-#Phase3Icon
-{
-   width: 18px;
-   height: 18px;
-}
-#Phase3Icon i
-{
-   line-height: 18px;
-   font-size: 18px;
-   width: 17px;
-}
 #wb_TextP2
 {
-   left: 20px !important;
-   top: 1766px !important;
+   left: 21px !important;
+   top: 1811px !important;
    width: 258px !important;
-   height: 258px !important;
+   height: 247px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -4382,35 +4964,13 @@ body
 {
    margin: 0;
    padding: 0;
-}
-#wb_Phase2Icon
-{
-   left: 138px !important;
-   top: 1690px !important;
-   width: 18px !important;
-   height: 18px !important;
-   visibility: visible !important;
-   display: inline !important;
-   margin: 0;
-   padding: 0;
-}
-#Phase2Icon
-{
-   width: 18px;
-   height: 18px;
-}
-#Phase2Icon i
-{
-   line-height: 18px;
-   font-size: 18px;
-   width: 17px;
 }
 #wb_TitleP2
 {
-   left: 102px !important;
-   top: 1732px !important;
+   left: 103px !important;
+   top: 1777px !important;
    width: 116px !important;
-   height: 20px !important;
+   height: 16px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -4421,16 +4981,16 @@ body
 }
 #wb_RoadmapShape
 {
-   left: 16px !important;
-   top: 1319px !important;
+   left: 17px !important;
+   top: 1364px !important;
    visibility: visible !important;
    display: inline !important;
    margin: 0;
 }
 #wb_RoadmapTitle
 {
-   left: 52px !important;
-   top: 1290px !important;
+   left: 53px !important;
+   top: 1335px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -4441,10 +5001,10 @@ body
 }
 #wb_AboutText
 {
-   left: 16px !important;
-   top: 418px !important;
+   left: 15px !important;
+   top: 395px !important;
    width: 280px !important;
-   height: 794px !important;
+   height: 853px !important;
    visibility: visible !important;
    display: inline !important;
 }
@@ -4456,7 +5016,7 @@ body
 #wb_PhotoCollage
 {
    left: 27px !important;
-   top: 164px !important;
+   top: 151px !important;
    width: 231px !important;
    height: 231px !important;
    visibility: visible !important;
@@ -4557,7 +5117,7 @@ body
 #wb_Question2
 {
    left: 10px !important;
-   top: -68px !important;
+   top: -74px !important;
    width: 250px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -4571,7 +5131,7 @@ body
 #wb_Question4
 {
    left: 10px !important;
-   top: -146px !important;
+   top: -158px !important;
    width: 251px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -4585,7 +5145,7 @@ body
 #wb_Question1
 {
    left: 10px !important;
-   top: -29px !important;
+   top: -32px !important;
    width: 249px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -4599,7 +5159,7 @@ body
 #wb_Question5
 {
    left: 10px !important;
-   top: -185px !important;
+   top: -200px !important;
    width: 510px !important;
    height: 256px !important;
    visibility: hidden !important;
@@ -4613,7 +5173,7 @@ body
 #wb_Question6
 {
    left: 10px !important;
-   top: -224px !important;
+   top: -242px !important;
    width: 485px !important;
    height: 144px !important;
    visibility: hidden !important;
@@ -4651,28 +5211,10 @@ body
    visibility: hidden !important;
    display: none !important;
 }
-#wb_Mint
-{
-   left: 148px !important;
-   top: 5083px !important;
-   width: 20px !important;
-   height: 27px !important;
-   visibility: hidden !important;
-   display: none !important;
-}
-#wb_Gallery
-{
-   left: 23px !important;
-   top: 4967px !important;
-   width: 17px !important;
-   height: 22px !important;
-   visibility: hidden !important;
-   display: none !important;
-}
 #wb_SlideShow320
 {
    left: 44px !important;
-   top: 4712px !important;
+   top: 4830px !important;
    width: 217px !important;
    height: 246px !important;
    visibility: visible !important;
@@ -4709,7 +5251,7 @@ body
 #wb_Question3
 {
    left: 10px !important;
-   top: -107px !important;
+   top: -116px !important;
    width: 307px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -4722,8 +5264,8 @@ body
 }
 #wb_Text1
 {
-   left: 10px !important;
-   top: -68px !important;
+   left: 18px !important;
+   top: 3077px !important;
    width: 250px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -4737,7 +5279,7 @@ body
 #wb_Text2
 {
    left: 10px !important;
-   top: -146px !important;
+   top: -158px !important;
    width: 251px !important;
    height: 16px !important;
    visibility: hidden !important;
@@ -4845,7 +5387,7 @@ body
 #wb_TwitterIcon320
 {
    left: 61px !important;
-   top: 5002px !important;
+   top: 5120px !important;
    width: 48px !important;
    height: 30px !important;
    visibility: visible !important;
@@ -4873,7 +5415,7 @@ body
 #wb_OpenseaIcon320
 {
    left: 109px !important;
-   top: 5002px !important;
+   top: 5120px !important;
    width: 48px !important;
    height: 30px !important;
    visibility: visible !important;
@@ -4901,7 +5443,7 @@ body
 #wb_ContractIcon320
 {
    left: 205px !important;
-   top: 5002px !important;
+   top: 5120px !important;
    width: 48px !important;
    height: 30px !important;
    visibility: visible !important;
@@ -4929,7 +5471,7 @@ body
 #wb_DiscordIcon320
 {
    left: 157px !important;
-   top: 5002px !important;
+   top: 5120px !important;
    width: 48px !important;
    height: 30px !important;
    visibility: visible !important;
@@ -4984,8 +5526,8 @@ body
 }
 #wb_RoadmapIcon320
 {
-   left: 16px !important;
-   top: 1285px !important;
+   left: 17px !important;
+   top: 1330px !important;
    width: 35px !important;
    height: 29px !important;
    visibility: visible !important;
@@ -5013,7 +5555,7 @@ body
 #wb_FaqIcon320
 {
    left: 16px !important;
-   top: 2900px !important;
+   top: 2987px !important;
    width: 35px !important;
    height: 29px !important;
    visibility: visible !important;
@@ -5041,7 +5583,7 @@ body
 #wb_GalleryIcon320
 {
    left: 16px !important;
-   top: 4638px !important;
+   top: 4756px !important;
    width: 35px !important;
    height: 29px !important;
    visibility: visible !important;
@@ -5122,5 +5664,23 @@ body
 {
    font-size: 19px;
    padding: 0;
+}
+#wb_Mint
+{
+   left: 148px !important;
+   top: 5083px !important;
+   width: 20px !important;
+   height: 27px !important;
+   visibility: hidden !important;
+   display: none !important;
+}
+#wb_Gallery
+{
+   left: 23px !important;
+   top: 4967px !important;
+   width: 17px !important;
+   height: 22px !important;
+   visibility: hidden !important;
+   display: none !important;
 }
 }
