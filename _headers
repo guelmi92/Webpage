@@ -1,0 +1,21 @@
+# Cache fonts forever
+/fonts/*
+  Cache-Control: public
+  Cache-Control: max-age=365000000
+  Cache-Control: immutable
+
+# Cache images for a week
+/images/*
+  Cache-Control: public
+  Cache-Control: max-age=604800
+  
+#CSP
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+  Content-security-policy : default-src 'self' 'unsafe-inline' https://punkorange.netlify.app; script-src 'unsafe-inline' google-analytics.com https://ssl.google-analytics.com www.google-analytics.com https://www.googletagmanager.com/ https://punkorange.netlify.app/js/skrollr.min.js https://punkorange.netlify.app/js/jquery-3.6.0.min.js https://punkorange.netlify.app/js/jquery-ui.min.js https://punkorange.netlify.app/js/wb.photocollage.min.js https://punkorange.netlify.app/js/affix.min.js https://punkorange.netlify.app/js/util.min.js https://punkorange.netlify.app/js/carousel.min.js https://punkorange.netlify.app/js/wwb17.min.js; img-src 'self' https://punkorange.netlify.app/ www.google-analytics.com https://www.google.com/ads/ga-audiences https://stats.g.doubleclick.net/r/collect; connect-src www.google-analytics.com https://ampcid.google.com https://stats.g.doubleclick.net/j/collect;base-uri 'self'; font-src 'self' https://fonts.gstatic.com/; style-src 'self' https://fonts.googleapis.com/ 'unsafe-inline';
+  
+#Permissions-Policy
+Permissions-Policy: accelerometer=(self), ambient-light-sensor=(self), autoplay=(self), battery=(self), camera=(self), cross-origin-isolated=(self), display-capture=(self), document-domain=(self), encrypted-media=(self), execution-while-not-rendered=(self), execution-while-out-of-viewport=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), keyboard-map=(self), magnetometer=(self), microphone=(self), midi=(self), navigation-override=(self), payment=(self), picture-in-picture=(self), publickey-credentials-get=(self), screen-wake-lock=(self), sync-xhr=(self), usb=(self), web-share=(self), xr-spatial-tracking=(self)
